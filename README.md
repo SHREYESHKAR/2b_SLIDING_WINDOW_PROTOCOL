@@ -47,7 +47,7 @@ while True:
 ```
 ## OUPUT
 
-https://img.sanishtech.com/u/c39529705eaacd6ffc8c209c8326630e.png
+<img src="https://img.sanishtech.com/u/c39529705eaacd6ffc8c209c8326630e.png" alt="2b ss" width="1911" height="1073" loading="lazy" style="max-width:100%;height:auto;">
 
 
 ## RESULT
