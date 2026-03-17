@@ -49,6 +49,7 @@ while True:
 
 <img src="https://img.sanishtech.com/u/c39529705eaacd6ffc8c209c8326630e.png" alt="2b ss" width="1911" height="1073" loading="lazy" style="max-width:100%;height:auto;">
 
+<img src="https://img.sanishtech.com/u/2d265c59afc09b01bc0b3c00c3b17053.png" alt="2b sss" width="1907" height="948" loading="lazy" style="max-width:100%;height:auto;">
 
 ## RESULT
 Thus, python program to perform IMPLEMENTATION OF SLIDING WINDOW PROTOCOL was successfully executed
