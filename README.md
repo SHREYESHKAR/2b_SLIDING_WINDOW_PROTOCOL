@@ -47,9 +47,8 @@ while True:
 ```
 ## OUPUT
 
-<img width="1918" height="1141" alt="Screenshot 2025-09-03 115407" src="https://github.com/user-attachments/assets/cb0a34e7-af45-46c1-95b3-3391d5b1ef86" />
+https://private-user-images.githubusercontent.com/182351384/484947316-173767e3-b75c-4c9c-b860-5063fc5d9d5e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM3NTM5MjAsIm5iZiI6MTc3Mzc1MzYyMCwicGF0aCI6Ii8xODIzNTEzODQvNDg0OTQ3MzE2LTE3Mzc2N2UzLWI3NWMtNGM5Yy1iODYwLTUwNjNmYzVkOWQ1ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxN1QxMzIwMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMzMzZTllODg4YmFmMjhkY2ZkNGI2NjhlZDkyZGM0NWJkZTY4MjkxMWU1M2M4MTc4NzkxZDU1MTJhMzEyZWRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rDPjCzlpL9mBgsrEesDVU3dE5PvtkdKtPzzE6k8FqF8
 
-<img width="1918" height="1137" alt="Screenshot 2025-09-03 115501" src="https://github.com/user-attachments/assets/4c6d7dac-fc38-4b57-af25-1f8338f978a2" />
 
 
 ## RESULT
